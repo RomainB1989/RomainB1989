@@ -2,9 +2,11 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un Développeur Web et Web Modile passionnée par le Back-End. 
 
-## Ici vous trouverez
+## 📂 Ici vous trouverez 📂
 
-Une collection de projets et des informations sur mes compétences et intérêts.
+- 🌟 **Projets personnels**
+- 📚 **Exercices** réalisés pendant ma formation à **ADRAR Digital Academy**
+- 🔧 **Exercices autodidactes** développés indépendamment
 
 ## 🔧 Technologies et Outils
 
