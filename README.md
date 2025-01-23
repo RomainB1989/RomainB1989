@@ -9,7 +9,7 @@ Une collection de projets et des informations sur mes compétences et intérêts
 ## 🔧 Technologies et Outils
 
 - **Langages**:
-  - [Html] /CSS
+  - Html / CSS
   - JavaScript
   - PHP
   - SQL
