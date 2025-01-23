@@ -44,7 +44,7 @@ C'est un site vitrine avec une partie d'ecommerce(Click and Collect) d'une boula
 ## 💬 Contactez-Moi
 
 - [Profil LinkedIn](https://www.linkedin.com/in/romain-bergout-423051331/)
-- [Email](romain.jimmy.bergout@gmail.com)
+- [Email](mailto:romain.jimmy.bergout@gmail.com)
 
 N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet ou simplement discuter de technologie !
 
