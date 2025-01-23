@@ -27,7 +27,7 @@ Une collection de projets et des informations sur mes compétences et intérêts
 
 ## 📂 Projets à la Une
 
-### [Epinature.fr]()
+### [Epinature.fr](https://github.com/RomainB1989/Project-EpiNature)
 C'est un site vitrine avec une partie d'ecommerce(Click and Collect) d'une boulangerie. Ce site internet me sert de démonstrateur pour mon Titre Professionnel de Développeur Web / Web Mobile au sein de l'Adrar.
 
 ## 🌱 J'apprends actuellement...
@@ -43,8 +43,8 @@ C'est un site vitrine avec une partie d'ecommerce(Click and Collect) d'une boula
 
 ## 💬 Contactez-Moi
 
-- [Profil LinkedIn]()
-- [Email]()
+- [Profil LinkedIn](https://www.linkedin.com/in/romain-bergout-423051331/)
+- [Email](romain.jimmy.bergout@gmail.com)
 
 N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet ou simplement discuter de technologie !
 
