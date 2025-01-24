@@ -34,9 +34,6 @@ C'est un site vitrine avec une partie d'ecommerce(Click and Collect) d'une boula
 
 ## 🌱 J'apprends actuellement...
 
-- [Technologie ou Langage]
-- [Une Autre Technologie]
-- [Quelque Chose de Nouveau que Vous Voulez Apprendre]
 
 ## 🌍 Langues
 
