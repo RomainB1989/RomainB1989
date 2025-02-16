@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Romain.B 👋
+# 👋 Bonjour, je suis Romain 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un Développeur Web et Web Modile passionnée par le Back-End. 
+Bienvenue sur mon profil GitHub ! Je suis un Développeur Web et Web Modile passionné par le Back-End. 
 
 ## 📂 Ici vous trouverez 📂
 
