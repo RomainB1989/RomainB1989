@@ -14,7 +14,8 @@ Bienvenue sur mon profil GitHub ! Je suis un Développeur Web et Web Modile pass
   - Html / CSS
   - JavaScript
   - PHP
-  - SQL
+  - SQL , MongoDB.
+  - C, C++
 
 - **Technologies**:
   - Bootstrap
